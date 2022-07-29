@@ -1,4 +1,4 @@
 """
-glab models
+flab models
 """
 from django.db import models
